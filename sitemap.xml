@@ -2,377 +2,382 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://lmodel.github.io/uco-location/</loc>
-         <lastmod>2023-02-28</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lmodel.github.io/uco-location/Annotation/</loc>
-         <lastmod>2023-02-28</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lmodel.github.io/uco-location/Assertion/</loc>
-         <lastmod>2023-02-28</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lmodel.github.io/uco-location/AttributedName/</loc>
-         <lastmod>2023-02-28</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lmodel.github.io/uco-location/BooleanType/</loc>
-         <lastmod>2023-02-28</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lmodel.github.io/uco-location/Bundle/</loc>
-         <lastmod>2023-02-28</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lmodel.github.io/uco-location/Compilation/</loc>
-         <lastmod>2023-02-28</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lmodel.github.io/uco-location/ConfidenceFacet/</loc>
-         <lastmod>2023-02-28</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lmodel.github.io/uco-location/ContextualCompilation/</loc>
-         <lastmod>2023-02-28</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lmodel.github.io/uco-location/ControlledVocabulary/</loc>
-         <lastmod>2023-02-28</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lmodel.github.io/uco-location/DecimalType/</loc>
-         <lastmod>2023-02-28</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lmodel.github.io/uco-location/EnclosingCompilation/</loc>
-         <lastmod>2023-02-28</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lmodel.github.io/uco-location/ExternalReference/</loc>
-         <lastmod>2023-02-28</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lmodel.github.io/uco-location/Facet/</loc>
-         <lastmod>2023-02-28</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lmodel.github.io/uco-location/GPSCoordinatesFacet/</loc>
-         <lastmod>2023-02-28</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lmodel.github.io/uco-location/Grouping/</loc>
-         <lastmod>2023-02-28</lastmod>
+         <lastmod>2023-03-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://lmodel.github.io/uco-location/HexBinaryType/</loc>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lmodel.github.io/uco-location/IdentityAbstraction/</loc>
-         <lastmod>2023-02-28</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lmodel.github.io/uco-location/IriType/</loc>
-         <lastmod>2023-02-28</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lmodel.github.io/uco-location/Item/</loc>
-         <lastmod>2023-02-28</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lmodel.github.io/uco-location/LatLongCoordinatesFacet/</loc>
-         <lastmod>2023-02-28</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lmodel.github.io/uco-location/LiteralType/</loc>
-         <lastmod>2023-02-28</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lmodel.github.io/uco-location/Location/</loc>
-         <lastmod>2023-02-28</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lmodel.github.io/uco-location/MarkingDefinitionAbstraction/</loc>
-         <lastmod>2023-02-28</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lmodel.github.io/uco-location/ModusOperandi/</loc>
-         <lastmod>2023-02-28</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lmodel.github.io/uco-location/NonNegativeIntegerType/</loc>
-         <lastmod>2023-02-28</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lmodel.github.io/uco-location/Relationship/</loc>
-         <lastmod>2023-02-28</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lmodel.github.io/uco-location/SimpleAddressFacet/</loc>
-         <lastmod>2023-02-28</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lmodel.github.io/uco-location/StatementType/</loc>
-         <lastmod>2023-02-28</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lmodel.github.io/uco-location/StringType/</loc>
-         <lastmod>2023-02-28</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lmodel.github.io/uco-location/UcoInherentCharacterizationThing/</loc>
-         <lastmod>2023-02-28</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lmodel.github.io/uco-location/UcoObject/</loc>
-         <lastmod>2023-02-28</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lmodel.github.io/uco-location/UcoThing/</loc>
-         <lastmod>2023-02-28</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lmodel.github.io/uco-location/addressType/</loc>
-         <lastmod>2023-02-28</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lmodel.github.io/uco-location/altitude/</loc>
-         <lastmod>2023-02-28</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lmodel.github.io/uco-location/confidence/</loc>
-         <lastmod>2023-02-28</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lmodel.github.io/uco-location/constrainingVocabularyName/</loc>
-         <lastmod>2023-02-28</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lmodel.github.io/uco-location/constrainingVocabularyReference/</loc>
-         <lastmod>2023-02-28</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lmodel.github.io/uco-location/context/</loc>
-         <lastmod>2023-02-28</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lmodel.github.io/uco-location/country/</loc>
-         <lastmod>2023-02-28</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lmodel.github.io/uco-location/createdBy/</loc>
-         <lastmod>2023-02-28</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lmodel.github.io/uco-location/definingContext/</loc>
-         <lastmod>2023-02-28</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lmodel.github.io/uco-location/description/</loc>
-         <lastmod>2023-02-28</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lmodel.github.io/uco-location/endTime/</loc>
-         <lastmod>2023-02-28</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lmodel.github.io/uco-location/externalIdentifier/</loc>
-         <lastmod>2023-02-28</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lmodel.github.io/uco-location/externalReference/</loc>
-         <lastmod>2023-02-28</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lmodel.github.io/uco-location/hasFacet/</loc>
-         <lastmod>2023-02-28</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lmodel.github.io/uco-location/hdop/</loc>
-         <lastmod>2023-02-28</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lmodel.github.io/uco-location/isDirectional/</loc>
-         <lastmod>2023-02-28</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lmodel.github.io/uco-location/kindOfRelationship/</loc>
-         <lastmod>2023-02-28</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lmodel.github.io/uco-location/latitude/</loc>
-         <lastmod>2023-02-28</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lmodel.github.io/uco-location/locality/</loc>
-         <lastmod>2023-02-28</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lmodel.github.io/uco-location/longitude/</loc>
-         <lastmod>2023-02-28</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lmodel.github.io/uco-location/modifiedTime/</loc>
-         <lastmod>2023-02-28</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lmodel.github.io/uco-location/name/</loc>
-         <lastmod>2023-02-28</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lmodel.github.io/uco-location/namingAuthority/</loc>
-         <lastmod>2023-02-28</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lmodel.github.io/uco-location/object/</loc>
-         <lastmod>2023-02-28</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lmodel.github.io/uco-location/objectCreatedTime/</loc>
-         <lastmod>2023-02-28</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lmodel.github.io/uco-location/objectMarking/</loc>
-         <lastmod>2023-02-28</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lmodel.github.io/uco-location/pdop/</loc>
-         <lastmod>2023-02-28</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lmodel.github.io/uco-location/postalCode/</loc>
-         <lastmod>2023-02-28</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lmodel.github.io/uco-location/referenceURL/</loc>
-         <lastmod>2023-02-28</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lmodel.github.io/uco-location/region/</loc>
-         <lastmod>2023-02-28</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lmodel.github.io/uco-location/source/</loc>
-         <lastmod>2023-02-28</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lmodel.github.io/uco-location/specVersion/</loc>
-         <lastmod>2023-02-28</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lmodel.github.io/uco-location/startTime/</loc>
-         <lastmod>2023-02-28</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lmodel.github.io/uco-location/statement/</loc>
-         <lastmod>2023-02-28</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lmodel.github.io/uco-location/street/</loc>
-         <lastmod>2023-02-28</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lmodel.github.io/uco-location/tag/</loc>
-         <lastmod>2023-02-28</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lmodel.github.io/uco-location/target/</loc>
-         <lastmod>2023-02-28</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lmodel.github.io/uco-location/tdop/</loc>
-         <lastmod>2023-02-28</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lmodel.github.io/uco-location/types/</loc>
-         <lastmod>2023-02-28</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lmodel.github.io/uco-location/uco-core/</loc>
-         <lastmod>2023-02-28</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lmodel.github.io/uco-location/ucolink-location/</loc>
-         <lastmod>2023-02-28</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lmodel.github.io/uco-location/value/</loc>
-         <lastmod>2023-02-28</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://lmodel.github.io/uco-location/vdop/</loc>
-         <lastmod>2023-02-28</lastmod>
+         <lastmod>2023-03-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
