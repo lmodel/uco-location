@@ -166,6 +166,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://lmodel.github.io/uco-location/about/</loc>
+         <lastmod>2023-03-18</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://lmodel.github.io/uco-location/addressType/</loc>
          <lastmod>2023-03-18</lastmod>
          <changefreq>daily</changefreq>
